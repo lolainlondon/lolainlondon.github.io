@@ -1,6 +1,17 @@
-ul {
+* {
+font-family: verdana;
+font-size: 18px;
+  }
+
+li {
 display: inline-block;
+padding: 4px;
+color: white;
+background: lightgrey;
+position: fixed;
 }
+
 h1 {
- color: blue;
+ color: navy;
+ font-size: 24px;
 }
