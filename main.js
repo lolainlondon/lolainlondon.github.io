@@ -8,15 +8,13 @@ const selectQuote = arr => {
   const quoteIndex = Math.floor(Math.random()*4)
   {return arr[quoteIndex]}
 };
-const allQuotes = () => {
-console.log(selectQuote(beginningQuote))
-console.log(selectQuote(middleQuote))
-console.log(selectQuote(endQuote))
-}
+function allQuotes {
 let beginning = selectQuote(beginningQuote);
 let middle = selectQuote(middleQuote);
-let end = selectQuote(endQuote);
+let end = selectQuote(endQuote);}
 
 document.getElementById('beginning').innerHTML = beginning;
 document.getElementById('middle').innerHTML = middle;
 document.getElementById('end').innerHTML = end;
+
+garfield.onclick(allQuotes)
