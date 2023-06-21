@@ -17,4 +17,4 @@ document.getElementById('beginning').innerHTML = beginning;
 document.getElementById('middle').innerHTML = middle;
 document.getElementById('end').innerHTML = end;
 
-garfield.onclick(allQuotes)
+garfield.addEventListener("click", allQuotes);
