@@ -9,6 +9,7 @@ padding: 4px;
 color: white;
 background: lightgrey;
 position: fixed;
+margin: 2px;
 }
 
 h1 {
@@ -17,4 +18,9 @@ h1 {
  position: relative;
  top: 40px;
  background: navy;
+}
+
+#garfield {
+  color: white;
+  background-color: grey;
 }

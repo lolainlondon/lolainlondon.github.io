@@ -8,7 +8,7 @@ const selectQuote = arr => {
   const quoteIndex = Math.floor(Math.random()*4)
   {return arr[quoteIndex]}
 };
-function allQuotes {
+function allQuotes() {
 let beginning = selectQuote(beginningQuote);
 let middle = selectQuote(middleQuote);
 let end = selectQuote(endQuote);}
