@@ -1,6 +1,6 @@
 * {
 font-family: verdana;
-font-size: 16px;
+font-size: 14px;
   }
 
 header {
@@ -21,19 +21,19 @@ list-style: none;
 
 h1 {
  color: white;
- font-size: 1.25rem;
+ font-size: 1.5rem;
  padding-left: 0.5rem;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 h3 {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 
 h4 {
-  font-size: 0.5rem;
+  font-size: 1rem;
   font-weight: lighter;
 }
 
@@ -51,12 +51,16 @@ img#photo{
   height: auto;
   justify-self: flex-end;
 }
+#skills ul li {
+  color: black;
+}
 #quote {
   display: flex;
   background: cadetblue;
   justify-content: center;
   color: rgb(241, 241, 248);
   padding: 5px 0px;
+  width: 450px;
 }
 #quote p {
   flex-basis: 33%;
