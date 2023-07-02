@@ -44,7 +44,7 @@ img#photo{
   text-align: center;
   justify-content: space-around;
   color: rgb(241, 241, 248);
-  padding: 15px 0px;
+  padding: 5px 0px;
 }
 section p {
   flex-basis: auto;
