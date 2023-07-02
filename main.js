@@ -11,10 +11,11 @@ const selectQuote = arr => {
 function allQuotes() {
 let beginning = selectQuote(beginningQuote);
 let middle = selectQuote(middleQuote);
-let end = selectQuote(endQuote);}
-
+let end = selectQuote(endQuote);
 document.getElementById('beginning').innerHTML = beginning;
 document.getElementById('middle').innerHTML = middle;
-document.getElementById('end').innerHTML = end;
+document.getElementById('end').innerHTML = end;}
+
+
 
 garfield.addEventListener("click", allQuotes);
