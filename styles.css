@@ -9,11 +9,11 @@ header {
   
 ul {
   display: flex;
-  align-items: flex-end;
+  justify-content: flex-end;
 }
   
 li {
-padding: 4px;
+padding: 0.2rem;
 color: white;
 margin: 2px;
 list-style: none;
@@ -22,6 +22,7 @@ list-style: none;
 h1 {
  color: white;
  font-size: 1.25rem;
+ padding-left: 0.5rem;
 }
 
 #aboutMe {
@@ -30,6 +31,7 @@ h1 {
 }
 #aboutMe span {
   flex-basis: 50%;
+  padding: 10px;
   
 }
 img#photo{
@@ -40,12 +42,13 @@ img#photo{
   display: flex;
   background: cadetblue;
   text-align: center;
+  justify-content: space-around;
   color: rgb(241, 241, 248);
   padding: 15px 0px;
 }
 section p {
   flex-basis: auto;
-  justify-content: space-around;
+  
   font-size: 2rem;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
