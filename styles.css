@@ -67,8 +67,7 @@ img#photo{
   background: cadetblue;
 }
 #quote {
-  display: flex;
-  justify-content: flex-start;
+  display: block;
   color: rgb(241, 241, 248);
   padding: 5px 0px;
 }
