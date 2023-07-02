@@ -40,6 +40,7 @@ h4 {
 #aboutMe {
   display: flex;
   justify-content: space-between;
+  position: relative;
 }
 #aboutMe span {
   flex-basis: 50%;
