@@ -60,6 +60,7 @@ img#photo{
   color: black;
   list-style: none;
   margin: 1px;
+  flex-basis: auto;
 }
 #portfolio {
   background: cadetblue;
