@@ -1,7 +1,7 @@
-# Your Daily Ice Cream
+# My Portfolio website
  
 ## Description
-This app recommends what ice cream flavor you should have today based on the local weather.
+This website describes my skills and experience with software development.
  
 ## Technologies
-This app is built using React v18.
+This app is built using CSS, HTML and Vanilla JS.
