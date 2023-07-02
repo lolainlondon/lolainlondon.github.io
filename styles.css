@@ -58,7 +58,9 @@ img#photo{
   background-color: grey;
   width: 60px;
   height: 30px;
+  margin: 10px;
 }
 #garfield:hover {
 cursor: pointer;
+background:rgb(61, 62, 95);
 }
