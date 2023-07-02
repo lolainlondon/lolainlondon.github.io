@@ -24,12 +24,14 @@ h1 {
  background: navy;
 }
 
-p {
+p #beginning{
   background: cadetblue;
   text-align: center;
   color: rgb(241, 241, 248);
 }
-
+button {
+width: 40px;
+}
 #garfield {
   color: white;
   background-color: grey;
