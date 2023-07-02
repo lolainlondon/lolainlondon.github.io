@@ -1,6 +1,6 @@
 * {
 font-family: verdana;
-font-size: 18px;
+font-size: 16px;
   }
 
 ul {
@@ -24,10 +24,10 @@ h1 {
  background: navy;
 }
 
-h2 p {
+p {
   background: cadetblue;
   text-align: center;
-  color: navy;
+  color: rgb(241, 241, 248);
 }
 
 #garfield {
