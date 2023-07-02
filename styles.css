@@ -26,10 +26,11 @@ h1 {
 
 .aboutMe {
   display: flex;
+  justify-content: space-between;
 }
 .aboutMe span {
   flex-basis: 50%;
-  justify-content: space-between;
+  
 }
 img#photo{
   width: 300px;
