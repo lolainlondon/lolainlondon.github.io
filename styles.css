@@ -68,14 +68,11 @@ img#photo{
 }
 #quote {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   color: rgb(241, 241, 248);
   padding: 5px 0px;
-  width: 450px;
 }
 #quote p {
-  flex-basis: 33%;
-  margin: 1px;
   font-size: 1.5rem;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
