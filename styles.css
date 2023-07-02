@@ -27,8 +27,7 @@ h1 {
 }
 
 #quote {
-  display: flex;
-  align-items: space-around;
+  display: block;
   background: cadetblue;
   text-align: center;
   color: rgb(241, 241, 248);
