@@ -24,6 +24,12 @@ h1 {
  background: navy;
 }
 
+h2 p {
+  background: cadetblue;
+  text-align: center;
+  color: navy;
+}
+
 #garfield {
   color: white;
   background-color: grey;
