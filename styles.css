@@ -52,6 +52,10 @@ img#photo{
   height: auto;
   margin-left: 50px;
 }
+#skills ul {
+  display: flex;
+  justify-content: space-around;
+}
 #skills ul li {
   color: black;
   list-style: none;
