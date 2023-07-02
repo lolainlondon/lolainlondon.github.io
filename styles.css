@@ -27,14 +27,17 @@ h1 {
 
 h2 {
   font-size: 1.25rem;
+  padding-left: 5px;
 }
 h3 {
   font-size: 1rem;
+  padding-left: 5px;
 }
 
 h4 {
   font-size: 1rem;
   font-weight: lighter;
+  padding-left: 5px;
 }
 
 #aboutMe {
@@ -69,6 +72,7 @@ img#photo{
 #quote {
   display: block;
   color: rgb(241, 241, 248);
+  border: 1px black solid;
   padding: 5px 0px;
 }
 #quote p {
