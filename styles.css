@@ -28,7 +28,7 @@ h1 {
   display: flex;
   justify-content: space-between;
 }
-.aboutMe span {
+#aboutMe span {
   flex-basis: 50%;
   
 }
