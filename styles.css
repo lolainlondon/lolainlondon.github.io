@@ -72,7 +72,6 @@ img#photo{
 #quote {
   display: block;
   color: rgb(241, 241, 248);
-  border: 1px black solid;
   padding: 5px 0px;
 }
 #quote p {
