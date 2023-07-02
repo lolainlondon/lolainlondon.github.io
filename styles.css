@@ -40,6 +40,7 @@ h4 {
 #aboutMe {
   display: flex;
   justify-content: space-between;
+  background:rgb(175, 176, 207)
 }
 #aboutMe span {
   flex-basis: 50%;
@@ -56,9 +57,13 @@ img#photo{
   list-style: none;
   margin: 1px;
 }
+#portfolio {
+  background: cadetblue;
+  display: flex;
+  justify-content: center;
+}
 #quote {
   display: flex;
-  background: cadetblue;
   justify-content: center;
   color: rgb(241, 241, 248);
   padding: 5px 0px;
