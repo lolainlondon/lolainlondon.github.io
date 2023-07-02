@@ -12,7 +12,7 @@ ul {
   justify-content: flex-end;
 }
   
-li {
+header ul li {
 padding: 0.2rem;
 color: white;
 margin: 2px;
