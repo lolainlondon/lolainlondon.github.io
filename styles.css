@@ -92,3 +92,7 @@ img#photo{
 cursor: pointer;
 background:rgb(61, 62, 95);
 }
+form {
+  background:rgb(61, 62, 95);
+  color:rgb(241, 241, 248);
+}
