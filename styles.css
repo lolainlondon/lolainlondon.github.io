@@ -29,13 +29,11 @@ p #beginning{
   text-align: center;
   color: rgb(241, 241, 248);
 }
-button {
-width: 40px;
-}
+
 #garfield {
   color: white;
   background-color: grey;
-  width: 50px;
+  width: 60px;
   height: 30px;
 }
 #garfield:hover {
