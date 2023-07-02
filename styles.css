@@ -37,11 +37,11 @@ h1 {
 img#photo{
   width: 300px;
   height: auto;
+  justify-self: flex-end;
 }
 #quote {
   display: flex;
   background: cadetblue;
-  text-align: center;
   justify-content: center;
   color: rgb(241, 241, 248);
   padding: 5px 0px;
@@ -49,7 +49,7 @@ img#photo{
 #quote p {
   flex-basis: 33%;
   margin: 1px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 

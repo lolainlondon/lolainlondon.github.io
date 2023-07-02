@@ -1,6 +1,6 @@
 //Define arrays that contain quote segments
-let beginningQuote = ['Never forget to', 'You should always', 'Take time to', 'It can help to']
-let middleQuote = ['be at one with nature', 'appreciate little joys', 'listen to your inner child', 'breathe deeply']
+let beginningQuote = ['Never forget to ', 'You should always ', 'Take time to ', 'It can help to ']
+let middleQuote = ['be at one with nature ', 'appreciate little joys ', 'listen to your inner child ', 'breathe deeply ']
 let endQuote = ['when searching for your path', 'even during large sorrows', 'at the start of a steep climb', 'in crowded places']
 
 //Define randomizer
