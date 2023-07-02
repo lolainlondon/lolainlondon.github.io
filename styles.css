@@ -40,7 +40,6 @@ h4 {
 #aboutMe {
   display: flex;
   justify-content: space-between;
-  background:rgb(175, 176, 207)
 }
 #aboutMe span {
   flex-basis: 50%;
@@ -50,7 +49,7 @@ h4 {
 img#photo{
   width: 300px;
   height: auto;
-  justify-self: flex-end;
+  margin-left: 50px;
 }
 #skills ul li {
   color: black;
@@ -59,8 +58,6 @@ img#photo{
 }
 #portfolio {
   background: cadetblue;
-  display: flex;
-  justify-content: center;
 }
 #quote {
   display: flex;
