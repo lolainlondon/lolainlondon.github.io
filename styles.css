@@ -5,10 +5,10 @@ font-size: 18px;
 
 ul {
   display: flex;
+  align-content: flex-end;
 }
   
 li {
-display: inline-block;
 padding: 4px;
 color: white;
 background: lightgrey;
