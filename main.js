@@ -14,7 +14,8 @@ let middle = selectQuote(middleQuote);
 let end = selectQuote(endQuote);
 document.getElementById('beginning').innerHTML = beginning;
 document.getElementById('middle').innerHTML = middle;
-document.getElementById('end').innerHTML = end;}
+document.getElementById('end').innerHTML = end;
+}
 
 
 
