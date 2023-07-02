@@ -46,8 +46,8 @@ img#photo{
   color: rgb(241, 241, 248);
   padding: 5px 0px;
 }
-section p {
-  flex-basis: auto;
+#quote p {
+  flex-basis: 33%;
   margin: 1px;
   font-size: 2rem;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
