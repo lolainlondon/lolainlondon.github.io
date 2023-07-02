@@ -27,9 +27,12 @@ h1 {
 .aboutMe {
   display: flex;
 }
-
+.aboutMe span {
+  flex-basis: auto;
+  align-items: space-between;
+}
 #photo{
-  width: 100px;
+  width: 300px;
   height: auto;
 }
 #quote {
