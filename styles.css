@@ -30,12 +30,12 @@ h1 {
   background: cadetblue;
   text-align: center;
   color: rgb(241, 241, 248);
-  font-size: 2rem;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 section p {
   flex-basis: auto;
   align-items: space-around;
+  font-size: 2rem;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 #garfield {
