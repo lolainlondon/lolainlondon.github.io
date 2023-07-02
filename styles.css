@@ -1,36 +1,39 @@
 * {
 font-family: verdana;
 font-size: 16px;
-background-color:rgb(173, 173, 175)
   }
 
+header {
+  background-color: rgb(61, 62, 95)
+}
+  
 ul {
   display: flex;
-  align-content: flex-end;
+  align-items: flex-end;
 }
   
 li {
 padding: 4px;
 color: white;
-background: lightgrey;
-position: fixed;
 margin: 2px;
+list-style: none;
 }
 
 h1 {
  color: white;
- font-size: 24px;
+ font-size: 1.25rempx;
  position: relative;
  top: 40px;
- background: navy;
 }
 
 #quote {
   display: flex;
-  align-items: center;
+  align-items: space-around;
   background: cadetblue;
   text-align: center;
   color: rgb(241, 241, 248);
+  font-size: 2rem;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 #garfield {
@@ -38,7 +41,6 @@ h1 {
   background-color: grey;
   width: 60px;
   height: 30px;
-  border-radius: 50%;
 }
 #garfield:hover {
 cursor: pointer;
