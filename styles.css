@@ -73,6 +73,7 @@ img#photo{
 }
 #quote p {
   font-size: 1.5rem;
+  clear:left;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
