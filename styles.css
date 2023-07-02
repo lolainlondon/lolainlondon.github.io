@@ -29,7 +29,7 @@ h1 {
 }
 .aboutMe span {
   flex-basis: 50%;
-  align-items: space-between;
+  justify-content: space-between;
 }
 img#photo{
   width: 300px;
@@ -44,7 +44,7 @@ img#photo{
 }
 section p {
   flex-basis: auto;
-  align-items: space-around;
+  justify-content: space-around;
   font-size: 2rem;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
